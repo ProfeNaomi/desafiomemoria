@@ -1,0 +1,5 @@
+{
+  "name": "Desafío de Memoria",
+  "description": "Un juego de memoria animado con sonidos donde debes recordar la posición de los cuadrados en una cuadrícula que aumenta de tamaño progresivamente.",
+  "requestFramePermissions": []
+}
